@@ -1,3 +1,3 @@
-client_id="d4726b15e5b34b0fa3c825aaea90d658"
-client_secret="70c9f746187d4b94976e58afcb88cf64" 
- 
+
+client_id='b82debf0490249d3b8f72e1b596f4e41'
+client_secret='4f06913eefd945a8933e76bb2ede1708'
